@@ -2,6 +2,8 @@
 
 ## Jake Clarke
 
+![Chiikawa Plush Holding Heart Wand](images/chiikawa.webp)
+
 ### Background
 
 Was a student for one and half years within the animation program at Fanshawe College and now I am currently enrolled in the Interactive Media program in Fanshawe College where I am learning website design and coding.
