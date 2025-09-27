@@ -67,7 +67,7 @@ I enjoy gaming, especially Pikmin Bloom, which I've played since it launched 3ye
 
 ---
 
-## Yatnizhanov Adil
+## Yantizhanov Adil
 
 ![Hachiware Plush Singing](images/hachiware_sing.webp)
 
