@@ -63,4 +63,33 @@ I enjoy gaming, especially Pikmin Bloom, which I've played since it launched 3ye
 3. Pikmin Bloom
 4. Flowers & Flower patterns
 5. Learning something new
-6. Exploring Google map
+6. Exploring Google map 
+
+---
+
+## Yatnizhanov Adil
+
+![Hachiware Plush Singing](images/hachiware_sing.webp)
+
+### Background
+
+I was a professional musician in Kazakhstan. Now i'm studying on Interactive Media Design Program at Fanshawe College.
+
+### Hobbies 
+
+I enjoy playing different types of musical instruments - from guitar to bass. Also I love gaming. My favourite video game - is Stardey Valley. I love it's peaceful gameplay.
+
+### Skills 
+- Hearing and analyzing music by ear 
+- Cooking 
+- Listening to people
+- Fast typing on keyboard
+
+### Likes 
+
+1. Music
+2. Design 
+3. Food
+4. Pusheen cat
+5. Walking in this town
+6. My life
