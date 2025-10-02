@@ -80,6 +80,7 @@ I was a professional musician in Kazakhstan. Now i'm studying on Interactive Med
 I enjoy playing different types of musical instruments - from guitar to bass. Also I love gaming. My favourite video game - is Stardey Valley. I love it's peaceful gameplay.
 
 ### Skills 
+
 - Hearing and analyzing music by ear 
 - Cooking 
 - Listening to people
@@ -93,3 +94,33 @@ I enjoy playing different types of musical instruments - from guitar to bass. Al
 4. Pusheen cat
 5. Walking in this town
 6. My life
+
+---
+
+## Installation
+
+Select the code feature and select the download ZIP file
+
+## Usage
+
+Classwork and practicing creating a markdown
+
+## Contributing
+
+1. Clone Repo
+2. Commit changes 
+3. Push to the branch 
+4. Submit a pull request 
+
+## History 
+
+See Commits for History 
+
+## Credits 
+
+Jake Clarke, Hee Jin Cheon and Adil Yantizhanov
+
+## License 
+
+See MIT License
+
